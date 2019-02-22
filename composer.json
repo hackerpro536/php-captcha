@@ -17,6 +17,6 @@
         "php": ">=5.0.0"
     },
     "autoload": {
-        "files": ["simple_php_captcha.php"]
+        "files": ["simple-php-captcha.php"]
     }
 }
