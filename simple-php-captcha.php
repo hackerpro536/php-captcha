@@ -1,6 +1,8 @@
 <?php
 class LpCaptcha 
 {
+    function __construct()
+    {
     function simple_php_captcha($config = array()) {
 
         // Check for GD library
@@ -83,7 +85,7 @@ class LpCaptcha
     }
 
 
-    if( !function_exists('hex2rgb') ) {
+    if(!function_exists('hex2rgb')) {
         function hex2rgb($hex_str, $return_string = false, $separator = ',') {
             $hex_str = preg_replace("/[^0-9A-Fa-f]/", '', $hex_str); // Gets a proper hex string
             $rgb_array = array();
@@ -165,4 +167,5 @@ class LpCaptcha
         imagepng($captcha);
 
     }
+}
 }
