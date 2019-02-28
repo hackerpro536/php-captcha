@@ -1,7 +1,7 @@
 {
     "name": "hackerpro536/php-captcha",
     "type": "library",
-    "description": "The primary class file for PHP Image Compressor & Caching",
+    "description": "The simple captcha by php anti spam and robot for small project",
     "keywords": ["php","image", "gd", "thumbnail", "resize", "crop", "filters"],
     "homepage": "https://github.com/hackerpro536/php-captcha/",
     "license": "LGPL-3.0",
