@@ -1,8 +1,8 @@
 Project information
 ----------------------------
-- Started: 20 September 2017.
+- Started: 20 September 2019.
 - Project Manager: [HackerPro536 (LE VAN PHU)](http://levanphu.info) <hackerpro536@gmail.com>.
-- Copyrights: 2017 LP Group.
+- Copyrights: 2019 LP Group.
 - Version: 0.1
 Category
 ------------------------
