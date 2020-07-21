@@ -181,3 +181,4 @@ class LpCaptcha
         }
     }
 }
+new LpCaptcha();
